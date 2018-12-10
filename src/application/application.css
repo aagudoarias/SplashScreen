@@ -1,0 +1,12 @@
+.logo{
+-fx-text-fill: #611aa4;
+-fx-background-radius: 50.0;
+-fx-background-color: white;
+-fx-font-size: 50.0;
+}
+
+.mytitle{
+    /*-fx-font-family: "Shadows Into Light";*/
+    -fx-font-size: 50.0;
+    
+}
